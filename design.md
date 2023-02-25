@@ -17,7 +17,9 @@ The SDK is built using the following functions:
 The SDK provides access to the following endpoints from the Lord of the Rings API:
 
 `/movie`: Returns information about all of the Lord of the Rings movies.
+
 `/movie/{id}`: Returns information about a specific Lord of the Rings movie.
+
 `/movie/{id}/quote`: Returns all quotes from a specific Lord of the Rings movie.
 
 ## Testing
